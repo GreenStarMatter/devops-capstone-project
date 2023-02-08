@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Template for submitting BDD Behavior
+name: User Story
+about: User Story Template
 title: ''
 labels: ''
 assignees: ''
